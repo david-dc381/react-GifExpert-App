@@ -1,0 +1,2 @@
+*{font-family:monospace,"Trebuchet MS","Lucida Sans Unicode","Lucida Grande","Lucida Sans",Arial,sans-serif}body{padding:60px}input{width:100%;color:grey}.card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));margin:auto}.card{border:1px solid #117dbb;margin:10px;overflow:hidden;border-radius:10px}.card p{background-color:#051736;color:#fff;margin:0;min-height:100%;padding:10px 0 15px;text-align:center}.card img{display:block;margin:auto;max-height:210px}
+/*# sourceMappingURL=main.7d88845b.chunk.css.map */
